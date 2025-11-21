@@ -1,0 +1,5 @@
+train_path: "data/raw/train.jsonl"
+val_path: "data/raw/val.jsonl"
+tokenizer_name: "gpt2"
+num_workers: 4
+prefetch_factor: 2
